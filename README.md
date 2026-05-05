@@ -20,12 +20,12 @@ I'm a Platform Engineer at Directi, fascinated towards competitive programming a
 - 🌱 I’m currently learning : Software and Design principles
 - 👯 I’m looking to collaborate on : Challenging problems
 - 💬 Ask me about : Anything from tech to life (I love philosophical discussions!)
-- 📫 How to reach me : ✔[Linkedin](https://www.linkedin.com/in/anshul-g/)  ✔[Mail](mailto:anshul16227@iiitd.ac.in)
+- 📫 How to reach me : ✔[Mail](mailto:anshulg.connect@gmail.com)
 - ⚡ Fun fact : Right now  I've kept you busy reading this
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulg5&theme=algolia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulg5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulg5&layout=compact&theme=algolia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
